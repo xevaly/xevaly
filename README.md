@@ -1,6 +1,6 @@
 <div align="center">
   <hr/>
-  <p>𝓍𝑒𝓋𝒶𝓁𝓎#𝟼𝟼𝟸𝟺</p>
+  <p>𝙭𝙚𝙫𝙖𝙡𝙮#𝟎𝟎𝟎𝟏</p>
   <hr/>
   <p>&#917567<p/>
   <a href="https://die.ooo";  target="website">website<a/>　
