@@ -4,7 +4,7 @@
   <img align='center' alt="xevaly's github stats" src="https://github-readme-stats.vercel.app/api?username=xevaly&show_icons=true&theme=omni&hide_border=true" />
   <br>
   <hr/>
-  <p>&#917567<p/>
+  <p>&#917567</p>
   [<p>website</p>][website]
   [<p>discord</p>][discord]
 </div>
