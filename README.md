@@ -1,3 +1,4 @@
+[<img align="center" alt="xevaly's thumbnail" width="980px" src="https://die.ooo/assets/thumbnail.png" />][website]
 <div align="center">
   <hr/>
   <p>𝙭𝙚𝙫𝙖𝙡𝙮#𝟎𝟎𝟎𝟏</p>
@@ -8,3 +9,6 @@
   <a href="https://die.ooo";  target="website">website<a/>　
   <a href="https://https://discordapp.com/users/910213408576659517";  target="discord">discord<a/>　
 </div>
+
+[website]: https://die.ooo
+    
