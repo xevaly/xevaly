@@ -5,8 +5,8 @@
   <br>
   <hr/>
   <p>&#917567<p/>
-  <a href=[website];  target="website">website<a/>　
-  <a href=[discord];  target="discord">discord<a/>　
+  [<p>website</p>][website]
+  [<p>discord</p>][discord]
 </div>
 
 [website]: https://die.ooo/
