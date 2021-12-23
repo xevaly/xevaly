@@ -13,8 +13,9 @@ class Me(ReadMe):
   def status(self):
     return {
       "projects": {
+        'dps': 'Discord Picture Scraper',
+        'tol': 'Discord Token Onliner',
         'sym': 'Discord Multitool',
-        'ate': 'Discord Anti Term',
         'uwc': 'Discord uwu Counter Bot'
       },
       "competitions": {
