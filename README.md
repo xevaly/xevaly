@@ -13,10 +13,14 @@ class Me(ReadMe):
   def status(self):
     return {
       "projects": {
+        'tac': {'description': 'Thetan Arena WinRate Calculator',
+        'location': 'https://tac.die.ooo'},
+        'ngc': 'Discord Nitro Gen and Checker',
         'dps': 'Discord Picture Scraper',
         'tol': 'Discord Token Onliner',
         'sym': 'Discord Multitool',
-        'uwc': 'Discord uwu Counter Bot'
+        'vrl': 'Discord Vanity Url Sniper',
+        'ucb': 'Discord uwu Counter Bot'
       },
       "competitions": {
         'softwareChallenge.de': 'AI Competition',
