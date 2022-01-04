@@ -52,6 +52,7 @@ class Me(ReadMe):
     <strong>dmd</strong> | Discord Mass DM | Selfbot to DM everyone in a server<hr>
     <strong>dna</strong> | Discord NFT Avatars | Bot which gives everyone on discord a unique character<hr>
     <strong>dps</strong> | Discord Picture Scraper | Program to download all pictures in a specific discord channel<hr>
+    <strong>ebc</strong> | Embed Creator | Program which converts discord json embeds to python code<hr>
     <strong>emb</strong> | Emoji Bot | Discord bot which returns the raw emoji file<hr>
     <strong>jgf</strong> | Jugendforscht | German research competition<hr>
     <strong>luv</strong> | luv | Personal discord bot<hr>
