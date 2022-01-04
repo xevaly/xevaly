@@ -15,6 +15,8 @@ class Me(ReadMe):
       "projects": {
         'tac': {'description': 'Thetan Arena WinRate Calculator',
         'location': 'https://tac.die.ooo'},
+        'pfl': {'description': 'Profile - Social Link hub',
+        'location': 'https://egirl.bio' + 'https://eboy.bio'},
         'ngc': 'Discord Nitro Gen and Checker',
         'dps': 'Discord Picture Scraper',
         'tol': 'Discord Token Onliner',
