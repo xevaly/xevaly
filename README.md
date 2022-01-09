@@ -56,7 +56,7 @@ class Me(ReadMe):
     <strong>emb</strong> | Emoji Bot | Discord bot which returns the raw emoji file<hr>
     <strong>jgf</strong> | Jugendforscht | German research competition<hr>
     <strong>luv</strong> | luv | Personal discord bot<hr>
-    <strong>pfl</strong> | Profiles | Social link website @ <a href="https://egirl.bio">egirl.bio</a><hr> & <a href="https://eboy.bio">eboy.bio</a><hr>
+    <strong>pfl</strong> | Profiles | Social link website @ <a href="https://egirl.bio">egirl.bio</a> & <a href="https://eboy.bio">eboy.bio</a><hr>
     <strong>rem</strong> | Reminder | Personal reminder for school<hr>
     <strong>sem</strong> | Seminar Bot | Bot for client<hr>
     <strong>swc</strong> | Software-Challenge | Competition folder<hr>
