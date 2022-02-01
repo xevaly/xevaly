@@ -17,12 +17,10 @@ class Me(ReadMe):
         'location': 'https://tac.die.ooo'},
         'pfl': {'description': 'Profile - Social Link hub',
         'location': 'https://egirl.bio' + 'https://eboy.bio'},
-        'ngc': 'Discord Nitro Gen and Checker',
-        'dps': 'Discord Picture Scraper',
-        'tol': 'Discord Token Onliner',
-        'sym': 'Discord Multitool',
-        'vrl': 'Discord Vanity Url Sniper',
-        'ucb': 'Discord uwu Counter Bot'
+        'quo': 'Discord quote-saving bot',
+        'other discord projects': ['ngc', 'dps',
+                                   'tol', 'sym', 
+                                   'vrl', 'ucb']
       },
       "competitions": {
         'softwareChallenge.de': 'AI Competition',
