@@ -34,10 +34,10 @@ class Me(ReadMe):
 > <a href="https://die.ooo";  target="website">xevaly@web<a/> | <a href="https://https://discordapp.com/users/910213408576659517";  target="discord">xevaly@discord<a/>
   </div>
 <hr>
-<details>
-  <summary>GitHub-Stats</summary>
+  
+<h1>GitHub-Stats</h1>
 <img align='center' alt="xevaly's github stats" src="https://github-readme-stats.vercel.app/api?username=xevaly&show_icons=true&theme=omni&hide_border=true" />
-</details>
+
 <details>
   <summary>Project-Name Legacy</summary>
     <br>
