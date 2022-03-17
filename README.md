@@ -13,7 +13,6 @@ class Me(ReadMe):
   def status(self):
     return {
       "projects": {
-        'location': 'https://tac.die.ooo'},
         'pfl': {'description': 'Profile - Social Link hub',
         'location': 'https://egirl.bio' + 'https://eboy.bio'},
         'quo': 'Discord quote-saving bot',
