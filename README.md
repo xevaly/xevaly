@@ -33,8 +33,10 @@ class Me(ReadMe):
   </div>
 <hr>
   
-<h1>GitHub-Stats</h1>
+<h1>Stats</h1>
 <img align='center' alt="xevaly's github stats" src="https://github-readme-stats.vercel.app/api?username=xevaly&show_icons=true&theme=omni&hide_border=true" />
+  
+[![Coding-Time](https://wakatime.com/badge/user/05dc7641-7771-479e-a728-3006c2af3458.svg)](https://wakatime.com/@05dc7641-7771-479e-a728-3006c2af3458)
 
 <details>
   <summary>Project-Name Legacy</summary>
