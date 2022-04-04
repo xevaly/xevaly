@@ -21,10 +21,11 @@ class Me(ReadMe):
                                    'vrl', 'ucb']
       },
       "competitions": {
+        'cscg.live': 'Cyber Security Challenge Germany',
         'softwareChallenge.de': 'AI Competition',
         'bwinf.de': 'German-wide coding competition',
-        'jugendforscht.de': 'German research competition',
-        'adventOfCode.com': 'Advent Calender with coding challenges'
+        'jwinf.de': 'Junior German-wide coding competition',
+        'jugendforscht.de': 'German research competition'
       }
     }
 ```
