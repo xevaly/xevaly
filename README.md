@@ -21,6 +21,7 @@ class Me(ReadMe):
                                    'vrl', 'ucb']
       },
       "competitions": {
+        'ivent-a-chip.de': 'German chip development competition',
         'cscg.live': 'Cyber Security Challenge Germany',
         'softwareChallenge.de': 'AI Competition',
         'bwinf.de': 'German-wide coding competition',
