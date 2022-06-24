@@ -31,8 +31,8 @@ class Me(ReadMe):
     }
 ```
 <div>
-<a href='https://discordapp.com/users/910213408576659517'><img align='center' alt='discord-stats' src='https://discord.c99.nl/widget/theme-4/910213408576659517.png'></img></a>
-<br>
+<a href='https://discordapp.com/users/910213408576659517'><img align='center' alt='discord-stats' src='https://lanyard.cnrad.dev/api/910213408576659517?idleMessage=Currently%20not%20doing%20anything&hideBadges=true'></img></a>
+<br><br>
 > <a href="https://die.ooo";  target="website">xevaly@web<a/> | <a href="https://https://discordapp.com/users/910213408576659517";  target="discord">xevaly@discord<a/>
   </div>
 <hr>
