@@ -13,12 +13,13 @@ class Me(ReadMe):
   def status(self):
     return {
       "projects": {
-        'pfl': {'description': 'Profile - Social Link hub',
-        'location': 'https://egirl.bio' + 'https://eboy.bio'},
-        'quo': 'Discord quote-saving bot',
-        'other discord projects': ['ngc', 'dps',
-                                   'tol', 'sym', 
-                                   'vrl', 'ucb']
+        'ebio': {'description': 'Profile - Social Link hub',
+        'location': 'https://ebio.gg'},
+        'drp': {'description': 'Discord Rich Presence API',
+        'location': 'https://discord-status.me'},
+        'other discord projects': ['quo', 'dbg',
+                                   'vrl', 'tol',
+                                   'and many more...']
       },
       "competitions": {
         'invent-a-chip.de': 'German chip development competition',
@@ -26,7 +27,8 @@ class Me(ReadMe):
         'softwareChallenge.de': 'AI Competition',
         'bwinf.de': 'German-wide coding competition',
         'jwinf.de': 'Junior German-wide coding competition',
-        'jugendforscht.de': 'German research competition'
+        'jugendforscht.de': 'German research competition',
+        'bw-ki.de': 'German-wide AI competition'
       }
     }
 ```
