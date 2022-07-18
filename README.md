@@ -1,4 +1,4 @@
-[<img align="center" alt="xevaly's thumbnail" width="980px" src="https://die.ooo/assets/thumbnail.png" />][website]
+[<img align="center" alt="xevaly's thumbnail" width="1028px" src="https://xev.dev/assets/banner.gif" />][website]
 
 ```py
 from GitHub import ReadMe
@@ -42,4 +42,4 @@ class Me(ReadMe):
 > <p><a href="https://die.ooo";  target="website">xevaly@web</a> | <a href="https://https://discordapp.com/users/910213408576659517";  target="discord">xevaly@discord</a></p>
 
 
-[website]: https://die.ooo
+[website]: https://xev.dev
