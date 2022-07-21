@@ -1,4 +1,4 @@
-[<img align="center" alt="xevaly's thumbnail" width="1028px" src="https://xev.dev/assets/banner.gif" />][website]
+[<img align="center" alt="xevaly's thumbnail" width="1010px" src="https://xev.dev/assets/banner.gif" />][website]
 
 ```py
 from GitHub import ReadMe
