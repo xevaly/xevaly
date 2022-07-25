@@ -1,5 +1,6 @@
-[<img align="center" alt="xevaly's thumbnail" width="1000px" src="https://xev.dev/assets/banner.gif" />][website]
-
+[<img align="center" alt="xevaly's thumbnail" src="https://xev.dev/assets/banner.gif" />][website]
+<a href="https://www.github.com/xevaly" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/xevaly?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ```py
 from GitHub import ReadMe
 
