@@ -7,7 +7,7 @@ from GitHub import ReadMe
 class Me(ReadMe):
   def __init__(self):
     self.name = 'xevaly'
-    self.age = '17'
+    self.age = '18'
     self.languages = 'English, German, Japanese, French'
     self.location = 'Germany'
     
