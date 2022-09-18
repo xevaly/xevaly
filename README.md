@@ -40,7 +40,7 @@ class Me(ReadMe):
 
 [![Coding-Time](https://wakatime.com/badge/user/05dc7641-7771-479e-a728-3006c2af3458.svg)](https://wakatime.com/@05dc7641-7771-479e-a728-3006c2af3458)
 
-> <p><a href="https://die.ooo";  target="website">xevaly@web</a> | <a href="https://https://discordapp.com/users/910213408576659517";  target="discord">xevaly@discord</a></p>
+> <p><a href="https://xev.dev";  target="website">xevaly@web</a> | <a href="https://https://discordapp.com/users/910213408576659517";  target="discord">xevaly@discord</a></p>
 
 
 [website]: https://xev.dev
