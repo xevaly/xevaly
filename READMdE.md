@@ -42,5 +42,5 @@ class Me(ReadMe):
 
 > <p><a href="https://xev.dev";  target="website">xevaly@web</a> | <a href="https://https://discordapp.com/users/910213408576659517";  target="discord">xevaly@discord</a></p>
 
-
+s
 [website]: https://xev.dev
