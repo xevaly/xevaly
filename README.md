@@ -34,7 +34,7 @@ class Me(ReadMe):
     }
 ```
 <hr>
-<a href='https://discordapp.com/users/910213408576659517'><img align='center' alt='discord-stats' src='https://lanyard.cnrad.dev/api/910213408576659517?idleMessage=Currently%20not%20doing%20anything&hideBadges=true'></img></a>
+<a href='https://discordapp.com/users/910213408576659517'><img align='center' alt='discord-stats' src='https://api.discord-status.me/910213408576659517?nitro&boost=6&afk=Not doing anything...'></img></a>
 <br><br>
 <a href='https://github.com/xevaly'><img alt="xevaly's github stats" src="https://github-readme-stats.vercel.app/api?username=xevaly&show_icons=true&theme=omni&hide_border=true" /></a>
 
