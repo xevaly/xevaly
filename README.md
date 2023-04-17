@@ -2,39 +2,7 @@
 [<img align="center" alt="xevaly's thumbnail" src="https://xev.dev/assets/banner.gif" />][website]
 <a href="https://www.github.com/xevaly" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/xevaly?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-```py
-from GitHub import ReadMe
 
-class Me(ReadMe):
-  def __init__(self):
-    self.name = 'xevaly'
-    self.age = '18'
-    self.languages = 'English, German, Japanese, French'
-    self.location = 'Germany'
-    
-  def status(self):
-    return {
-      "projects": {
-        'ebio': {'description': 'Profile - Social Link hub',
-        'location': 'https://ebio.gg'},
-        'drp': {'description': 'Discord Rich Presence API',
-        'location': 'https://discord-status.me'},
-        'other discord projects': ['quo', 'dbg',
-                                   'vrl', 'tol',
-                                   'and many more...']
-      },
-      "competitions": {
-        'invent-a-chip.de': 'German chip development competition',
-        'cscg.live': 'Cyber Security Challenge Germany',
-        'softwareChallenge.de': 'AI Competition',
-        'bwinf.de': 'German-wide coding competition',
-        'jwinf.de': 'Junior German-wide coding competition',
-        'jugendforscht.de': 'German research competition',
-        'bw-ki.de': 'German-wide AI competition'
-      }
-    }
-```
-<hr>
 <div align='center'>
 <a href='https://discordapp.com/users/910213408576659517'><img align='center' alt='discord-stats' src='https://api.discord-status.me/910213408576659517?nitro&boost=6&afk=Not doing anything...'></img></a>
 <br /><br/>
